@@ -16,26 +16,15 @@
 
 ## 🧑‍💻 About Me
 
-<table>
-<tr>
-<td valign="top" width="50%">
-
 **👤 Aravinda Baliga**<br/>
 💼 Senior Full Stack Developer @ **benelog GmbH**<br/>
 📍 Düsseldorf, Germany 🇩🇪<br/>
 🗣️ Deutsch · English · Hindi · Kannada · Konkani · Tulu
 
-</td>
-<td valign="top" width="50%">
-
 🌐 **Domains** — Supply-chain · Healthcare · GS1 / EPCIS 2.0<br/>
 ⚙️ **Backend** — Java · Quarkus · Mutiny · Kafka · REST/GraphQL<br/>
 🎨 **Frontend** — Nuxt · Vue · Nuxt Content/UI · Tailwind<br/>
 ☁️ **Cloud** — AWS · EKS · Docker · Terraform · CI/CD
-
-</td>
-</tr>
-</table>
 
 > 💡 *"Standards and best practices always win — slowly and steadily."*
 
