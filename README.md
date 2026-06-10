@@ -2,7 +2,7 @@
 <div align="center">
 
   <a href="https://github.com/Aravinda93">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=900&color=7AA2F7&center=true&vCenter=true&width=820&lines=Hi%2C+I'm+Aravinda+Baliga+%F0%9F%91%8B;Senior+Backend+%2F+Java+%26+Quarkus+Engineer;Reactive+Systems+%E2%80%A2+EPCIS+2.0+%E2%80%A2+Supply-Chain+Traceability;Open-Source+Maintainer+%40+OpenEPCIS" alt="typing header" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=900&color=7AA2F7&center=true&vCenter=true&width=860&lines=Hi%2C+I'm+Aravinda+Baliga+%F0%9F%91%8B;Senior+Full+Stack+Developer;Java+%C2%B7+Quarkus+%C2%B7+Nuxt+%C2%B7+Vue+%C2%B7+Cloud-Native;Microservices+%E2%80%A2+REST+APIs+%E2%80%A2+Reactive+Systems;EPCIS+2.0+%E2%80%A2+Supply+Chain+%E2%80%A2+Healthcare;Contributor+to+the+GS1+EPCIS+2.0+Standard" alt="typing header" />
   </a>
 
   <p>
@@ -18,13 +18,21 @@
 
 ```yaml
 name:        Aravinda Baliga
+
 role:        Senior Full Stack Developer @ benelog GmbH
+
 location:   📍 Düsseldorf
+
 domains:     Supply-chain traceability · Healthcare · GS1 / EPCIS 2.0
+
 backend:     Java · Quarkus · SmallRye Mutiny · Kafka · REST/GraphQL APIs
+
 frontend:    Nuxt · Vue · Nuxt Content · Nuxt UI · Tailwind CSS
+
 cloud:       AWS · Kubernetes (EKS) · Docker · Terraform · CI/CD
+
 philosophy:   "Reactive, non-blocking, memory-efficient — and standards-correct."
+
 languages:   Deutsch · English · Hindi · Kannada · Konkani · Tulu
 ```
 
@@ -162,14 +170,6 @@ languages:   Deutsch · English · Hindi · Kannada · Konkani · Tulu
 
 ---
 
-## 🏆 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aravinda93&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies" />
-</div>
-
----
-
 ## 📈 Contribution Graph
 
 <div align="center">
@@ -177,9 +177,5 @@ languages:   Deutsch · English · Hindi · Kannada · Konkani · Tulu
 </div>
 
 ---
-
-<div align="center">
-  <i>⭐️ From <a href="https://github.com/Aravinda93">Aravinda93</a> — building the open supply chain, one reactive stream at a time.</i>
-</div>
 
 
