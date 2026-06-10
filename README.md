@@ -24,7 +24,8 @@
 
 > 💡 *"Standards and best practices always win — slowly and steadily."*
 
-- 🔭 I am part of the team that **builds and maintains [OpenEPCIS](https://github.com/openepcis)** — open-source tooling for the GS1 **EPCIS 2.0** supply-chain traceability standard (capture, store & query).
+
+- 🔭 Part of the team that **builds and maintains [OpenEPCIS](https://github.com/openepcis)** — open-source tooling for the GS1 **EPCIS 2.0** supply-chain traceability standard (capture, store & query).
 - ⚙️ I design **cloud-native microservices and REST APIs** end-to-end — from reactive backends to production front-ends, DevOps infrastructure, and open-source tooling.
 - ⚡ I specialise in **reactive, non-blocking** services with **Quarkus** and **SmallRye Mutiny**, with a strong focus on **streaming**, **memory efficiency**, and **GraalVM native** builds.
 - 🌐 I work across the full stack — **Nuxt / Vue** front-ends (**Nuxt Content**, **Nuxt UI**, **Nuxt SEO**) and content-driven sites like **openepcis.io** and **benelog.com**.
@@ -111,7 +112,7 @@
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| 🔐 **[openepcis-event-hash-generator](https://github.com/openepcis/openepcis-event-hash-generator)** | Generates a canonical event hash for EPCIS documents/events with XML ↔ JSON-LD parity | `Java` `Quarkus` `Jackson`, `SAX Parser` |
+| 🔐 **[openepcis-event-hash-generator](https://github.com/openepcis/openepcis-event-hash-generator)** | Generates a event hash for EPCIS events with XML ↔ JSON-LD parity | `Java` `Quarkus` `Jackson`, `SAX Parser` |
 | 🔄 **[openepcis-document-converter](https://github.com/openepcis/openepcis-document-converter)** | Converts GS1 EPCIS events between JSON-LD and XML | `Java` `Quarkus` |
 | 🧪 **[epcis-testdata-generator](https://github.com/openepcis/epcis-testdata-generator)** | Design and generate generate EPCIS 2.0 test data | `Vue` `Nuxt` `Nuxt UI` `JavaScript` `TypeScript` |
 | 📦 **[openepcis-models](https://github.com/openepcis/openepcis-models)** | EPCIS 2.0 Java domain models | `Java` |
@@ -134,7 +135,10 @@
 2015 → 2016      Software Developer                  · UST Global           · Kochi             (Health insurance provider finder) 
 ```
 
-🎓 **MSc Web Engineering** — Technische Universität Chemnitz · **BE Electronics & Communication** — Canara Engineering College
+## 🎓 Studies
+
+**MSc Web Engineering** — Technische Universität Chemnitz 
+**BE Electronics & Communication** — Canara Engineering College
 
 ---
 
