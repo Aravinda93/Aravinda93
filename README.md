@@ -31,7 +31,7 @@ frontend:    Nuxt · Vue · Nuxt Content · Nuxt UI · Tailwind CSS
 
 cloud:       AWS · Kubernetes (EKS) · Docker · Terraform · CI/CD
 
-philosophy:   "Reactive, non-blocking, memory-efficient — and standards-correct."
+philosophy:   "Standards and best practices always win slowly and steadily."
 
 languages:   Deutsch · English · Hindi · Kannada · Konkani · Tulu
 ```
