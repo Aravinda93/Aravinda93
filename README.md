@@ -123,32 +123,27 @@ languages:   Deutsch · English · Hindi · Kannada · Konkani · Tulu
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| 🔐 **[openepcis-event-hash-generator](https://github.com/Aravinda93/openepcis-event-hash-generator)** | Generates a canonical event hash for EPCIS documents/events with XML ↔ JSON-LD parity | `Java` `Quarkus` `Jackson`, `SAX Parser` |
-| 🔄 **[openepcis-document-converter](https://github.com/Aravinda93/openepcis-document-converter)** | Converts GS1 EPCIS events between JSON-LD and XML | `Java` `Quarkus` |
-| 🧪 **[epcis-testdata-generator](https://github.com/Aravinda93/epcis-testdata-generator)** | Web tool to generate EPCIS 2.0 test data | `Vue` `Nuxt` `Nuxt UI` `JavaScript` `TypeScript` |
-| 📦 **[openepcis-models](https://github.com/Aravinda93/openepcis-models)** | EPCIS 2.0 Java domain models | `Java` |
-| 🗂️ **[openepcis-test-resources](https://github.com/Aravinda93/openepcis-test-resources)** | Collection of EPCIS events in XML & JSON/JSON-LD | `Java` |
+| 🔐 **[openepcis-event-hash-generator](https://github.com/openepcis/openepcis-event-hash-generator)** | Generates a canonical event hash for EPCIS documents/events with XML ↔ JSON-LD parity | `Java` `Quarkus` `Jackson`, `SAX Parser` |
+| 🔄 **[openepcis-document-converter](https://github.com/openepcis/openepcis-document-converter)** | Converts GS1 EPCIS events between JSON-LD and XML | `Java` `Quarkus` |
+| 🧪 **[epcis-testdata-generator](https://github.com/openepcis/epcis-testdata-generator)** | Design and generate generate EPCIS 2.0 test data | `Vue` `Nuxt` `Nuxt UI` `JavaScript` `TypeScript` |
+| 📦 **[openepcis-models](https://github.com/openepcis/openepcis-models)** | EPCIS 2.0 Java domain models | `Java` |
+| 🗂️ **[openepcis-test-resources](https://github.com/openepcis/openepcis-test-resources)** | Collection of EPCIS documents/events in XML & JSON/JSON-LD | `Java` |
+| 🗂️ **[openepcis-epc-digitallink-translator](https://github.com/openepcis/openepcis-epc-digitallink-translator)** | Transform GS1 Digital Link WebURI <-> URN | `Java` |
 | ✅ **[epcis-profile-checker](https://github.com/openepcis/openepcis-snippet-web)** | Generate and valdiate EPCIS profiles against EPCIS documents/events | `Nuxt` |
-
-**🌐 Beyond the repos — built & contributed at benelog / OpenEPCIS**
-
-- 🖥️ **[openepcis.io](https://openepcis.io)** & **[benelog.com](https://benelog.com)** — official content-driven websites (Nuxt, Nuxt Content, Nuxt UI, Nuxt SEO).
-- ✅ **[EPCIS Profile Checker](https://profile-checker.openepcis.io)** — open-source tool to validate EPCIS profiles.
-- 🔗 **URN → Web URI converter** — supports the GS1 EPCIS 2.x digital-link standards.
-- 🔳 **QR-code generator** — configurable QR generation (ZXing) for GS1 use cases.
-- 📡 **EPCIS microservices** — capture / store / query services and assorted OpenEPCIS modules.
-- 📜 **GS1 EPCIS 2.0 standard** — active GS1 GSMP working-group member, credited by name in the official standard document.
+| 🔳 **[qr-code-generator](https://github.com/openepcis/openepcis-epc-digitallink-translator)** | Configurable QR generation (ZXing) for GS1 use cases | `Java` `ZXing` |
+| 🖥️ **[openepcis.io](https://openepcis.io)** & **[benelog.com](https://benelog.com)** | official content-driven websites | `Nuxt` `Nuxt Content` `Nuxt UI` `Nuxt SEO` |
+| 📜 **GS1 EPCIS 2.0 standard** | active GS1 GSMP working-group member, credited by name in the official standard document. | |
 
 ---
 
 ## 💼 Experience
 
 ```text
-2020 → now   Senior Full Stack Developer · benelog GmbH · Köln  (OpenEPCIS, GS1/EPCIS, cloud-native)
-2020         Master's thesis · GS1 Germany · Köln              (EPCIS test-data generator)
-2019 → 2020  Quality Engineer (Werkstudent) · Johnson & Johnson · Chemnitz
-2016 → 2018  Software Developer · Oracle Cerner · Bengaluru     (Revenue Cycle Management)
-2015 → 2016  Software Developer · UST Global · Kochi
+2020 → now       Senior Full Stack Developer         · benelog GmbH         · Köln              (OpenEPCIS, GS1/EPCIS, cloud-native)
+2020             Master's thesis                     · GS1 Germany          · Köln              (EPCIS test-data generator)
+2019 → 2020      Quality Engineer (Werkstudent)      · Johnson & Johnson    · Chemnitz          (Surgical assist software)
+2016 → 2018      Software Developer                  · Oracle Cerner        · Bengaluru         (Revenue Cycle Management)
+2015 → 2016      Software Developer                  · UST Global           · Kochi             (Health insurance provider finder) 
 ```
 
 🎓 **MSc Web Engineering** — Technische Universität Chemnitz · **BE Electronics & Communication** — Canara Engineering College
