@@ -16,25 +16,28 @@
 
 ## 🧑‍💻 About Me
 
-```yaml
-name:        Aravinda Baliga
+<table>
+<tr>
+<td valign="top" width="50%">
 
-role:        Senior Full Stack Developer @ benelog GmbH
+**👤 Aravinda Baliga**<br/>
+💼 Senior Full Stack Developer @ **benelog GmbH**<br/>
+📍 Düsseldorf, Germany 🇩🇪<br/>
+🗣️ Deutsch · English · Hindi · Kannada · Konkani · Tulu
 
-location:   📍 Düsseldorf
+</td>
+<td valign="top" width="50%">
 
-domains:     Supply-chain traceability · Healthcare · GS1 / EPCIS 2.0
+🌐 **Domains** — Supply-chain · Healthcare · GS1 / EPCIS 2.0<br/>
+⚙️ **Backend** — Java · Quarkus · Mutiny · Kafka · REST/GraphQL<br/>
+🎨 **Frontend** — Nuxt · Vue · Nuxt Content/UI · Tailwind<br/>
+☁️ **Cloud** — AWS · EKS · Docker · Terraform · CI/CD
 
-backend:     Java · Quarkus · SmallRye Mutiny · Kafka · REST/GraphQL APIs
+</td>
+</tr>
+</table>
 
-frontend:    Nuxt · Vue · Nuxt Content · Nuxt UI · Tailwind CSS
-
-cloud:       AWS · Kubernetes (EKS) · Docker · Terraform · CI/CD
-
-philosophy:   "Standards and best practices always win slowly and steadily."
-
-languages:   Deutsch · English · Hindi · Kannada · Konkani · Tulu
-```
+> 💡 *"Standards and best practices always win — slowly and steadily."*
 
 - 🔭 I am part of the team that **builds and maintains [OpenEPCIS](https://github.com/openepcis)** — open-source tooling for the GS1 **EPCIS 2.0** supply-chain traceability standard (capture, store & query).
 - ⚙️ I design **cloud-native microservices and REST APIs** end-to-end — from reactive backends to production front-ends, DevOps infrastructure, and open-source tooling.
