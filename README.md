@@ -16,27 +16,28 @@
 
 ## 🧑‍💻 About Me
 
-💼 **Role** — Senior Full Stack Developer @ **benelog GmbH**<br/>
-📍 **Location** — Düsseldorf, Germany 🇩🇪<br/>
-🌐 **Domains** — Supply-chain · Healthcare · GS1 / EPCIS 2.0<br/>
-🛠️ **Stack** — Java · Quarkus · Kafka · Nuxt · Vue · AWS<br/>
-🗣️ **Languages** — Deutsch · English · Hindi · Kannada · Konkani · Tulu
+#### 💼 **Role** — Senior Full Stack Developer<br/>
+#### 📍 **Location** — Düsseldorf<br/>
+#### 🌐 **Domains** — Supply-chain · Healthcare · GS1 / EPCIS 2.0<br/>
+#### 🛠️ **Stack** — Java · Quarkus · Kafka · Nuxt · Vue · AWS<br/>
+#### 🗣️ **Languages** — Deutsch · English · Hindi · Kannada · Konkani · Tulu
 
-> 💡 *"Standards and best practices always win — slowly and steadily."*
+#### > 💡 *"Standards and best practices always win — slowly and steadily."* 💡 < <br/><br/>
+
 
 
 - 🔭 Part of the team that **builds and maintains [OpenEPCIS](https://github.com/openepcis)** — open-source tooling for the GS1 **EPCIS 2.0** supply-chain traceability standard (capture, store & query).
 - ⚙️ I design **cloud-native microservices and REST APIs** end-to-end — from reactive backends to production front-ends, DevOps infrastructure, and open-source tooling.
 - ⚡ I specialise in **reactive, non-blocking** services with **Quarkus** and **SmallRye Mutiny**, with a strong focus on **streaming**, **memory efficiency**, and **GraalVM native** builds.
-- 🌐 I work across the full stack — **Nuxt / Vue** front-ends (**Nuxt Content**, **Nuxt UI**, **Nuxt SEO**) and content-driven sites like **openepcis.io** and **benelog.com**.
+- 🌐 I work across the full stack — **Nuxt / Vue** front-ends (**Nuxt Content**, **Nuxt UI**, **Nuxt SEO**) and content-driven sites like **[openepcis.io](https://openepcis.io)** and **[benelog.com](https://benelog.com)**.
 - ☁️ I deploy and operate services on **AWS** & **Kubernetes (EKS)**, with **Terraform** IaC, **CI/CD** in GitLab/GitHub, and observability via **OpenTelemetry** & **Jaeger**.
 - 🔐 I secure APIs with **Keycloak**, **OAuth 2.0 / OIDC**, and **JWT**.
 - 🧩 I care about **XML ↔ JSON/JSON-LD equality**, clean code, and standards-correct implementations.
 - 🏆 Active member of the **GS1 GSMP working group** — credited by name in the official **GS1 EPCIS 2.0** standard document.
-- 💬 Ask me about **EPCIS, event-hash generation, document conversion, reactive Java, or Nuxt content sites**.
+- 💬 Ask me about **EPCIS, event-hash generation, document conversion, reactive Java, or Nuxt content sites** or connet with me here:
 
 <p>
-  <a href="https://www.linkedin.com/in/aravinda-bantwal-baliga"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/aravinda-bantwal-baliga"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp&nbsp
   <a href="https://github.com/Aravinda93"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
@@ -64,8 +65,8 @@
 **Frameworks & Runtime**
 
 ![Quarkus](https://img.shields.io/badge/Quarkus-4695EB?style=for-the-badge&logo=quarkus&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![SmallRye Mutiny](https://img.shields.io/badge/SmallRye%20Mutiny-FF004F?style=for-the-badge&logo=reactivex&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![GraalVM](https://img.shields.io/badge/GraalVM-F29111?style=for-the-badge&logo=oracle&logoColor=white)
 ![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white)
@@ -128,17 +129,17 @@
 ## 💼 Experience
 
 ```text
-2020 → now       Senior Full Stack Developer         · benelog GmbH         · Köln              (OpenEPCIS, GS1/EPCIS, cloud-native)
-2020             Master's thesis                     · GS1 Germany          · Köln              (EPCIS test-data generator)
-2019 → 2020      Quality Engineer (Werkstudent)      · Johnson & Johnson    · Chemnitz          (Surgical assist software)
-2016 → 2018      Software Developer                  · Oracle Cerner        · Bengaluru         (Revenue Cycle Management)
-2015 → 2016      Software Developer                  · UST Global           · Kochi             (Health insurance provider finder) 
+2020 → now    Senior Full Stack Developer       · benelog GmbH         · Köln      (OpenEPCIS, GS1/EPCIS, cloud-native)
+2020          Master's thesis                   · GS1 Germany          · Köln      (EPCIS test-data generator)
+2019 → 2020   Quality Engineer (Werkstudent)    · Johnson & Johnson    · Chemnitz  (Surgical assist software)
+2016 → 2018   Software Developer                · Oracle Cerner        · Bengaluru (Revenue Cycle Management)
+2015 → 2016   Software Developer                · UST Global           · Kochi     (Health insurance provider finder) 
 ```
 
 ## 🎓 Studies
 
-**MSc Web Engineering** — Technische Universität Chemnitz 
-**BE Electronics & Communication** — Canara Engineering College
+**MSc Web Engineering** — Technische Universität Chemnitz - 2018 to 2020 <br/>
+**BE  Electronics & Communication** — Canara Engineering College - 2010 to 2014
 
 ---
 
