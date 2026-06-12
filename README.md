@@ -18,7 +18,7 @@
 
 #### 💼 **Role** — Senior Full Stack Developer<br/>
 #### 📍 **Location** — Düsseldorf<br/>
-#### 🌐 **Domains** — Supply-chain · Healthcare · GS1 / EPCIS 2.0<br/>
+#### 🌐 **Domains** — Supply-chain · Healthcare · GS1 / EPCIS 2.0 · Digital Product Passport<br/>
 #### 🛠️ **Stack** — Java · Quarkus · Kafka · Nuxt · Vue · AWS<br/>
 #### 🗣️ **Languages** — Deutsch · English · Hindi · Kannada · Konkani · Tulu
 
